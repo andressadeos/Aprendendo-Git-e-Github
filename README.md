@@ -2,7 +2,9 @@
 
 Óla! Bem vindo ao meu livro de Receitas :wave:
 
-- Strogonoff de Frango
+- Strogonoff de Frango :hatched_chick:
+
+  
 
 
 
